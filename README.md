@@ -1,1 +1,1 @@
-# AB_Testing
+# A/B testing is a user experience research methodology. From a Data Scientist’s perspective, A/B testing is a form of statistical hypothesis testing or a significance test. In this research we will try to find if there is a significant difference between 2 groups in a sample revenue dataset.
