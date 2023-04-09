@@ -8,4 +8,4 @@ Before diving into the analysis, we first looked at the data and summarized it t
 After understanding the business problem and cleaning the data, we applied hypothesis testing to determine if there was a significant difference in the revenues between the variant and control groups. To do this, we first checked for normality and homogeneity assumptions and applied tests such as Shapiro, Levene, T-Test, Welch Test, and Mann Whitney U Test.
 
 # Results
-Our analysis revealed a statistically significant difference between the revenues of the variant and control groups. This finding helped us make a recommendation for the business decision. 
+Our analysis revealed a statistically significant difference between the revenues of the variant and control groups. This finding helped us make a recommendation for the business decision.
